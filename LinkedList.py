@@ -10,6 +10,7 @@ class linkedlist:
         while head is not None:
             print(head.data)
 	    print("Some changes")
+	    print("git rel")
             head=head.next
 list=linkedlist()
 list.data=node("Mon")
