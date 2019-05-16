@@ -9,6 +9,7 @@ class linkedlist:
         head=self.data
         while head is not None:
             print(head.data)
+	    print("Some chenges")
             head=head.next
 list=linkedlist()
 list.data=node("Mon")
