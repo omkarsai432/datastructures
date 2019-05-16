@@ -11,6 +11,7 @@ class linkedlist:
             print(head.data)
 	    print("Some changes")
 	    print("git rel")
+	    print("git featured")
             head=head.next
 list=linkedlist()
 list.data=node("Mon")
